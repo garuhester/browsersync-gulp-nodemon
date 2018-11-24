@@ -1,0 +1,8 @@
+{
+    "ignore": [
+        "static/create/**",
+        "static/zip/**",
+        "static/public/**"
+    ],
+    "ext": "js"
+}

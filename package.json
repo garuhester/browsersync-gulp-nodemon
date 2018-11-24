@@ -1,0 +1,28 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "node-project",
+  "main": "app.js",
+  "scripts": {
+    "server": "gulp"
+  },
+  "author": "hester",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "mongoose": "^5.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-nodemon": "^2.4.1",
+    "gulp-sass": "^4.0.2"
+  }
+}
